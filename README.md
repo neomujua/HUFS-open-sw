@@ -12,3 +12,6 @@
 | 학과 | 컴퓨터공학부 |
 | 이메일 | 0226daniel@gmail.com |
 | 취미 | 게임, 영화, 음악듣기, 코딩 |
+
+## 사진
+![kimjisub](./img/kjs.jpeg)
